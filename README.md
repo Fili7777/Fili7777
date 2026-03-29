@@ -15,9 +15,9 @@
 
 ## 🎯 Attualmente
 
-- 🧩 **Competitive programming** — Codeforces & LeetCode in Java (greedy, memoization, string ops)
+- 🧩 **Competitive programming** — Codeforces & LeetCode in Java 
 - 🎓 **Preparazione maturità 2026** — Networking/Sistemi, Italiano, Matematica
-- 🏆 **Web platform** per gestione tornei scolastici (calcio & pallavolo)
+- 🏆 **Progetto RighiLab per campionati Robotica 2026**
 
 ---
 
@@ -27,7 +27,7 @@
 |-----------|-----------|
 | **Linguaggi** | Java (OOP, algoritmi, sorting), PHP, SQL, HTML/CSS |
 | **Networking** | LAN, VLAN, Subnetting, NAT, Firewall, Cisco CCNA1 |
-| **Cybersecurity** | Cisco Cybersecurity Fundamentals, crittografia, IDS/IPS |
+| **Cybersecurity** | Cisco Cybersecurity Fundamentals, crittografia, IDS/IPS, etical hacking|
 | **Certificazioni** | Cisco IoT · EIPASS · English B2 |
 
 ---
