@@ -15,9 +15,9 @@
 
 ## 🎯 Attualmente
 
-- 🧩 **Competitive programming** — Codeforces & LeetCode in Java 
+- 🧩 **Competitive programming** — Codeforces & LeetCode in Java (greedy, memoization, string ops)
 - 🎓 **Preparazione maturità 2026** — Networking/Sistemi, Italiano, Matematica
-- 🏆 **Progetto RighiLab per campionati Robotica 2026**
+- 🏆 **Web platform** per gestione tornei scolastici (calcio & pallavolo)
 
 ---
 
@@ -27,7 +27,7 @@
 |-----------|-----------|
 | **Linguaggi** | Java (OOP, algoritmi, sorting), PHP, SQL, HTML/CSS |
 | **Networking** | LAN, VLAN, Subnetting, NAT, Firewall, Cisco CCNA1 |
-| **Cybersecurity** | Cisco Cybersecurity Fundamentals, crittografia, IDS/IPS, etical hacking|
+| **Cybersecurity** | Cisco Cybersecurity Fundamentals, crittografia, IDS/IPS |
 | **Certificazioni** | Cisco IoT · EIPASS · English B2 |
 
 ---
@@ -45,6 +45,15 @@ Calcolatore di Codice Fiscale in Java con programmazione orientata agli oggetti 
 Documentazione tecnica della piattaforma web per la robotica educativa @ ITI Augusto Righi.
 
 `Documentazione` `Web` `Robotica educativa`
+
+---
+
+### 🏆 [Piattaforma-Torneo-Scolastico](https://github.com/Sneaxino/Piattaforma-Torneo-Scolastico)
+Piattaforma web Full-Stack per la gestione e visualizzazione di un torneo sportivo scolastico. Realizzata in collaborazione con [@Sneaxino](https://github.com/Sneaxino).
+
+Funzionalità: squadre con filtri dinamici per edizione/sport/classe, calendario partite, classifiche calcolate dal DB, albo d'oro storico.
+
+`PHP` `MySQL` `HTML/CSS` `Full-Stack`
 
 ---
 
