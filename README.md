@@ -11,7 +11,7 @@ Benvenuto sul mio profilo GitHub! Sono uno studente e un appassionato di program
 
 Qui sotto trovi alcuni dei progetti a cui ho lavorato:
 
-* 🏫 **[Piattaforma-Torneo-Scolastico
+* 🏫 **[Piattaforma-Torneo-Scolastico]
 (https://github.com/Sneaxino/Piattaforma-Torneo-Scolastico)**: Un progetto scolastico sviluppato in team per  per gestire e visualizzare i dati di un torneo sportivo scolastico.
 * 🧾 **[CodiceFiscale-Java-OOP](https://github.com/Fili7777/CodiceFiscale-Java-OOP)**: Applicativo Java per il calcolo del Codice Fiscale italiano, sviluppato applicando i principi dell'Object-Oriented Programming.
 * 🔐 **[password-manager](https://github.com/Fili7777/password-manager)**: Un progetto fatto in team per la gestione sicura delle password.
