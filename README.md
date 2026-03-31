@@ -19,7 +19,7 @@ Qui sotto trovi alcuni dei progetti a cui ho lavorato:
 ## ⚙️ Tecnologie e Strumenti
 * **Linguaggi:** Java, C++, PHP,MYSQL, HTML/CSS.
 * **Networking e Cybersecurity**: CCNA1 e Cisco Junior Cybersecurity Analyst.
-* **Strumenti:** Git, GitHub, IntelliJ IDEA VS Code.
+* **Strumenti:** Git, GitHub, IntelliJ IDEA, VS Code, XAMPP, composer .
 
 ## 📫 Come contattarmi
 📧 filippo.cuccurullo17@gmail.com
