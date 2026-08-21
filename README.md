@@ -1,6 +1,6 @@
-# Ciao! 👋 Sono Filippo (@Fili7777)
+# Ciao! Sono Filippo (@Fili7777)
 
-Benvenuto sul mio profilo GitHub! Sono uno studente e un appassionato di programmazione, sempre alla ricerca di nuove sfide per imparare e migliorare le mie competenze. 🚀
+Benvenuto sul mio profilo, sono uno studente e un appassionato di programmazione, sempre alla ricerca di nuove sfide per imparare e migliorare le mie competenze. 🚀
 
 ## 💻 Cosa faccio
 - 🎓 Sto studiando informatica/programmazione a scuola.
