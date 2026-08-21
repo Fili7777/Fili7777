@@ -44,7 +44,7 @@ Alcuni repository pubblici con link e descrizione breve — ho mantenuto per cia
 - Linguaggi: Java, PHP, SQL (MySQL), HTML/CSS, JavaScript  
 - Framework / librerie: Laravel, Tailwind  
 - Strumenti: Git, GitHub, IntelliJ IDEA, VS Code, XAMPP, Composer  
-- Basi in networking e cybersecurity (CCNA1)
+- Basi in networking e cybersecurity (CCNA1, Cisco junior cybersecurity analyst)
 
 ## 📫 Contatti
 - ✉️ filippo.cuccurullo17@gmail.com  
