@@ -23,11 +23,11 @@ Sono Filippo, studente di Informatica presso l'Università degli Studi di Napoli
 
 - 🎟️ **[DNA_Events](https://github.com/Fili7777/DNA_Events)**  
   ![language](https://img.shields.io/github/languages/top/Fili7777/DNA_Events?style=flat-square) ![license](https://img.shields.io/github/license/Fili7777/DNA_Events?style=flat-square) ![last-commit](https://img.shields.io/github/last-commit/Fili7777/DNA_Events?style=flat-square)  
-  Piattaforma PHP per gestione e prenotazione ticket.
+  REST API in Laravel per la gestione di eventi e biglietti, con CRUD, autenticazione Sanctum, Repository Pattern e sistema di acquisto ticket.
 
 - 🏫 **[laravel-school-management](https://github.com/Fili7777/laravel-school-management)**  
   ![language](https://img.shields.io/github/languages/top/Fili7777/laravel-school-management?style=flat-square) ![license](https://img.shields.io/github/license/Fili7777/laravel-school-management?style=flat-square) ![last-commit](https://img.shields.io/github/last-commit/Fili7777/laravel-school-management?style=flat-square)  
-  Applicazione Laravel per gestione scolastica: CRUD, autenticazione e interfaccia.
+  Applicazione per gestione scolastica: CRUD, autenticazione e interfaccia.
 
 - 🔐 **[password-manager](https://github.com/Fili7777/password-manager)**  
   ![language](https://img.shields.io/github/languages/top/Fili7777/password-manager?style=flat-square) ![license](https://img.shields.io/github/license/Fili7777/password-manager?style=flat-square) ![last-commit](https://img.shields.io/github/last-commit/Fili7777/password-manager?style=flat-square)  
