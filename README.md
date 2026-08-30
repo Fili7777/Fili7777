@@ -12,7 +12,6 @@ Sono Filippo, studente di Informatica presso l'Università degli Studi di Napoli
 - Sicurezza nei fondamenti: gestione credenziali e pratiche base per ridurre rischi applicativi.
 
 ## 🛠️ Progetti recenti
-Alcuni repository pubblici con link e descrizione breve — ho mantenuto per ciascuno badge utili (linguaggio, licenza, ultimo commit).
 
 - 🔢 **[CodiceFiscale-Java-OOP](https://github.com/Fili7777/CodiceFiscale-Java-OOP)**  
   ![language](https://img.shields.io/github/languages/top/Fili7777/CodiceFiscale-Java-OOP?style=flat-square) ![license](https://img.shields.io/github/license/Fili7777/CodiceFiscale-Java-OOP?style=flat-square) ![last-commit](https://img.shields.io/github/last-commit/Fili7777/CodiceFiscale-Java-OOP?style=flat-square)  
